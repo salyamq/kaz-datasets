@@ -1,0 +1,211 @@
+{
+  "madlad400": {
+    "total": 1762503,
+    "dropped_empty_input": 0,
+    "dropped_corrupted": 6,
+    "dropped_empty_after_clean": 0,
+    "dropped_spam": 18147,
+    "kept_changed": 1742100,
+    "kept_unchanged": 1665,
+    "chars_before_total": 8039460294,
+    "chars_after_total": 7986973516
+  },
+  "sib200": {
+    "total": 656,
+    "dropped_empty_input": 0,
+    "dropped_corrupted": 0,
+    "dropped_empty_after_clean": 0,
+    "dropped_spam": 0,
+    "kept_changed": 2,
+    "kept_unchanged": 654,
+    "chars_before_total": 89105,
+    "chars_after_total": 89105
+  },
+  "kazparc_sync": {
+    "total": 1346391,
+    "dropped_empty_input": 0,
+    "dropped_corrupted": 0,
+    "dropped_empty_after_clean": 0,
+    "dropped_spam": 27,
+    "kept_changed": 1538,
+    "kept_unchanged": 1344825,
+    "chars_before_total": 175521952,
+    "chars_after_total": 175519247
+  },
+  "hplt_new": {
+    "total": 2167168,
+    "dropped_empty_input": 0,
+    "dropped_corrupted": 2,
+    "dropped_empty_after_clean": 0,
+    "dropped_spam": 28752,
+    "kept_changed": 353948,
+    "kept_unchanged": 1783864,
+    "chars_before_total": 8175840945,
+    "chars_after_total": 8162986762
+  },
+  "wikipedia": {
+    "total": 230954,
+    "dropped_empty_input": 0,
+    "dropped_corrupted": 0,
+    "dropped_empty_after_clean": 0,
+    "dropped_spam": 32,
+    "kept_changed": 229139,
+    "kept_unchanged": 1761,
+    "chars_before_total": 243491789,
+    "chars_after_total": 242279894
+  },
+  "mc4": {
+    "total": 1873056,
+    "dropped_empty_input": 0,
+    "dropped_corrupted": 310,
+    "dropped_empty_after_clean": 0,
+    "dropped_spam": 16263,
+    "kept_changed": 578663,
+    "kept_unchanged": 1277948,
+    "chars_before_total": 7862758693,
+    "chars_after_total": 7849995996
+  },
+  "md_kazakhBooks": {
+    "total": 20141,
+    "dropped_empty_input": 0,
+    "dropped_corrupted": 0,
+    "dropped_empty_after_clean": 0,
+    "dropped_spam": 95,
+    "kept_changed": 15168,
+    "kept_unchanged": 4875,
+    "chars_before_total": 918560738,
+    "chars_after_total": 915007497
+  },
+  "wikiann": {
+    "total": 152,
+    "dropped_empty_input": 0,
+    "dropped_corrupted": 0,
+    "dropped_empty_after_clean": 0,
+    "dropped_spam": 0,
+    "kept_changed": 2,
+    "kept_unchanged": 150,
+    "chars_before_total": 14228,
+    "chars_after_total": 14228
+  },
+  "kazsandra": {
+    "total": 39165,
+    "dropped_empty_input": 0,
+    "dropped_corrupted": 0,
+    "dropped_empty_after_clean": 0,
+    "dropped_spam": 0,
+    "kept_changed": 1719,
+    "kept_unchanged": 37446,
+    "chars_before_total": 5263272,
+    "chars_after_total": 5260679
+  },
+  "md_oscar": {
+    "total": 234943,
+    "dropped_empty_input": 0,
+    "dropped_corrupted": 688,
+    "dropped_empty_after_clean": 0,
+    "dropped_spam": 3563,
+    "kept_changed": 64409,
+    "kept_unchanged": 166281,
+    "chars_before_total": 1090086353,
+    "chars_after_total": 1089171040
+  },
+  "culturax": {
+    "total": 2660249,
+    "dropped_empty_input": 0,
+    "dropped_corrupted": 30,
+    "dropped_empty_after_clean": 0,
+    "dropped_spam": 40803,
+    "kept_changed": 549047,
+    "kept_unchanged": 2070369,
+    "chars_before_total": 9795432989,
+    "chars_after_total": 9785468509
+  },
+  "md_kazakhNews": {
+    "total": 283411,
+    "dropped_empty_input": 0,
+    "dropped_corrupted": 0,
+    "dropped_empty_after_clean": 0,
+    "dropped_spam": 171,
+    "kept_changed": 25804,
+    "kept_unchanged": 257436,
+    "chars_before_total": 517675357,
+    "chars_after_total": 517625681
+  },
+  "belebele": {
+    "total": 500,
+    "dropped_empty_input": 0,
+    "dropped_corrupted": 0,
+    "dropped_empty_after_clean": 0,
+    "dropped_spam": 0,
+    "kept_changed": 6,
+    "kept_unchanged": 494,
+    "chars_before_total": 244820,
+    "chars_after_total": 244820
+  },
+  "moscar": {
+    "total": 228273,
+    "dropped_empty_input": 0,
+    "dropped_corrupted": 0,
+    "dropped_empty_after_clean": 0,
+    "dropped_spam": 1295,
+    "kept_changed": 82095,
+    "kept_unchanged": 144882,
+    "chars_before_total": 449983053,
+    "chars_after_total": 449663422
+  },
+  "kazparc": {
+    "total": 162817,
+    "dropped_empty_input": 0,
+    "dropped_corrupted": 0,
+    "dropped_empty_after_clean": 0,
+    "dropped_spam": 11,
+    "kept_changed": 2284,
+    "kept_unchanged": 160522,
+    "chars_before_total": 26583375,
+    "chars_after_total": 26583333
+  },
+  "md_leipzig": {
+    "total": 1107392,
+    "dropped_empty_input": 0,
+    "dropped_corrupted": 0,
+    "dropped_empty_after_clean": 0,
+    "dropped_spam": 6,
+    "kept_changed": 266244,
+    "kept_unchanged": 841142,
+    "chars_before_total": 137872897,
+    "chars_after_total": 137757804
+  },
+  "cc100": {
+    "total": 1343150,
+    "dropped_empty_input": 0,
+    "dropped_corrupted": 91,
+    "dropped_empty_after_clean": 0,
+    "dropped_spam": 13077,
+    "kept_changed": 276875,
+    "kept_unchanged": 1053292,
+    "chars_before_total": 3260262832,
+    "chars_after_total": 3258800969
+  },
+  "ALL": {
+    "total": 13461211,
+    "dropped_empty_input": 0,
+    "dropped_corrupted": 1127,
+    "dropped_empty_after_clean": 0,
+    "dropped_spam": 122240,
+    "kept_changed": 4189524,
+    "kept_unchanged": 9147500,
+    "chars_before_total": 40703081605,
+    "chars_after_total": 40609119108
+  },
+  "UNKNOWN_SOURCE": {
+    "total": 0,
+    "dropped_empty_input": 0,
+    "dropped_corrupted": 0,
+    "dropped_empty_after_clean": 0,
+    "dropped_spam": 0,
+    "kept_changed": 0,
+    "kept_unchanged": 0,
+    "chars_before_total": 0,
+    "chars_after_total": 0
+  }
+}
